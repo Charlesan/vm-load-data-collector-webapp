@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="vm-load-data-collector-webapp"
+  id="myeclipse.1428377876314"
+  context-root="/vm-load-data-collector-webapp"
+  j2ee-spec="6.0"
+  archive="vm-load-data-collector-webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
